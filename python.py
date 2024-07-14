@@ -1,1 +1,1 @@
-printf("Hello, This is a sample Python code - update 3")
+print("Hello, This is a sample Python code - update 3")
